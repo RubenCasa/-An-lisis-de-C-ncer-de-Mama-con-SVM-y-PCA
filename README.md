@@ -2,7 +2,7 @@
 
 Este proyecto aplica técnicas de Machine Learning para la clasificación de tumores de mama (malignos vs. benignos) utilizando el dataset **Breast Cancer Wisconsin**. Se exploran y comparan modelos de **Support Vector Machines (SVM)** con y sin reducción de dimensionalidad (**PCA** y **KernelPCA**).
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El objetivo principal es encontrar el equilibrio óptimo entre la precisión del diagnóstico y la complejidad computacional. Se realizaron las siguientes etapas:
 1.  **Estandarización** de datos.
@@ -29,6 +29,4 @@ El objetivo principal es encontrar el equilibrio óptimo entre la precisión del
 *   **Pandas & Numpy:** Manipulación de datos.
 *   **Matplotlib & Seaborn:** Visualización de datos.
 
-
-## 👤 Autor
 RubenC - Estudiante de Machine Learning - Semestre 4
